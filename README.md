@@ -11,7 +11,9 @@ const devIncreible = {
 };
 
 // ¡Saludos, colegas del código! 👋
-console.log(`¡Hola, mundo! Soy ${devIncreible.nombre}, el dev más increíble del universo JavaScript. Actualmente, me encuentro conquistando desafíos con ${devIncreible.lenguajes.join(', ')} y desplegando superpoderes como ${devIncreible.superpoderes.join(' y ')}.`);
+console.log(`¡Hola, mundo! Soy ${devIncreible.nombre}, el dev más increíble del universo JavaScript.
+Actualmente, me encuentro conquistando desafíos con ${devIncreible.lenguajes.join(', ')}
+y desplegando superpoderes como ${devIncreible.superpoderes.join(' y ')}.`);
 
 // Cuando no estoy dominando el código, me encuentras:
 devIncreible.hobbies.forEach(hobby => console.log(`- ${hobby}`));
