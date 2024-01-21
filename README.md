@@ -1,7 +1,10 @@
+## ¡Hola, soy el Dev Increíble! 👋
+
+```javascript
 // Hola, soy el Dev Increíble
 const devIncreible = {
-  nombre: "Jesus David Sotaquira Chacon",
-  lenguajes: ["JavaScript", "React", "Redux"],
+  nombre: "Jesus Sotaquira",
+  lenguajes: ["JavaScript", "React", "Redux", "Node.js", "SQL", "JavaScript", "CSS"],
   superpoderes: ["Resolución de Bugs", "Refactorización Mágica"],
   hobbies: ["Explorar nuevos frameworks", "Hackear la Matrix"],
   ubicacion: "En el teclado, conquistando el mundo",
