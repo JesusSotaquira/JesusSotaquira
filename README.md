@@ -3,7 +3,7 @@
 ```javascript
 // Hola, soy el Dev Increíble
 const devIncreible = {
-  nombre: "Jesus Sotaquira",
+  nombre: "Jesus_Sotaquira",
   lenguajes: ["JavaScript", "React", "Redux", "Node.js", "SQL", "JavaScript", "CSS"],
   superpoderes: ["Resolución de Bugs", "Refactorización Mágica"],
   hobbies: ["Explorar nuevos frameworks", "Hackear la Matrix"],
@@ -17,3 +17,8 @@ console.log(`¡Hola, mundo! Soy ${devIncreible.nombre}, el dev más increíble d
 devIncreible.hobbies.forEach(hobby => console.log(`- ${hobby}`));
 
 // ¡Conéctate conmigo para discutir ideas, colaborar en proyectos o simplemente charlar sobre el vasto mundo de la programación!
+
+## ¿Dónde encontrarme?
+
+- **LinkedIn:** https://www.linkedin.com/in/jesus-sotaquira-b77301283/
+- **Correo Electrónico:** jesus.s.chacon2005@gmail.com
