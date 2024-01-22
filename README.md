@@ -22,5 +22,5 @@ devIncreible.hobbies.forEach(hobby => console.log(`- ${hobby}`));
 
 ## ¿Dónde encontrarme?
 
-- **LinkedIn:** https://www.linkedin.com/in/jesus-sotaquira-b77301283/
-- **Correo Electrónico:** jesus.s.chacon2005@gmail.com
+- **LinkedIn:** "https://www.linkedin.com/in/jesus-sotaquira-b77301283/"
+- **Correo Electrónico:** "jesus.s.chacon2005@gmail.com"
