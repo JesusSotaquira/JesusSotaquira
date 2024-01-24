@@ -4,7 +4,7 @@
 // Hola, soy el Dev Increíble
 const devIncreible = {
   nombre: "Jesus_Sotaquira",
-  lenguajes: ["JavaScript", "React", "Redux", "Node.js", "SQL", "JavaScript", "CSS"...],
+  lenguajes: ["JavaScript", "React", "Redux", "Node.js", "JavaScript", "CSS"...],
   superpoderes: ["Resolución de Bugs", "Refactorización Mágica"],
   hobbies: ["Explorar nuevos frameworks", "Hackear la Matrix"],
   ubicacion: "En el teclado, conquistando el mundo",
